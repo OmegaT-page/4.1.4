@@ -1,0 +1,111 @@
+/* Primary Color */
+#header {
+	background-color:#75C3EF;	
+}
+#header .nav-main {
+	border-bottom: 1px solid #BDE5FB;
+
+}
+#service .single-service i{
+	border-color:#75C3EF;
+	color: #75C3EF;
+}
+#benefits .left-benefits::before{
+	background: #75C3EF;
+}
+#benefits .left-benefits::after{
+	background: #75C3EF;
+
+}
+#benefits .single-benefits::before{
+	background: #75C3EF;
+	box-shadow: 0px 0px 0px 5px rgba(63, 184, 240, 0.25);
+}
+}
+#benefits .right-benefits::after{
+	background: #75C3EF;
+
+}
+.single-benefits.bottom::after{
+	background: #75C3EF;
+
+}
+#benefits .right-benefits::before {
+	background: #75C3EF;
+}
+#benefits .right-benefits::after {
+	background: #75C3EF;
+}
+#tables .pricing-table.active .btn{
+	background-color:#75C3EF;
+}
+#testimonials .slick-current .testimonial-content{
+	background-color: #75C3EF;
+}
+#testimonials .slick-current .testimonial-content:before {
+	border-top: 22px solid #75C3EF;
+}
+
+.scrollup .fa{
+	background-color: #75C3EF;
+}
+#tables .pricing-table.active .p-head h4{
+	color:#75C3EF;
+}
+#tables .p-body li i{
+	color:#75C3EF;
+
+}
+#tables .pricing-table{
+	border-bottom: 5px solid #75C3EF;
+
+}
+#footer .copyright-text a{
+color:#75C3EF;	
+}
+
+
+/* Secendory Color */
+.button .btn{
+	background-color: #F2536D;
+}
+#header .nav li.current a{
+	background-color:#F2536D;
+}
+#header .nav li:hover a {
+	background-color:#F2536D;
+
+}
+#service .single-service:hover i{
+	background-color:#F2536D;
+	box-shadow: 0px 0px 0px 5px rgba(243, 29, 89, 0.34);
+}
+#features .features-signle i {
+	color: #F2536D;
+}
+#tables .p-head h4{
+	color:#F2536D;
+}
+#tables .button .btn{
+	background-color:#F2536D;	
+}
+#tables .pricing-table.active{
+	 border-bottom-color:#F2536D;
+}
+
+
+#tables .pricing-table.active .p-body li i{
+	color:#F46D83;
+}
+#testimonials .slick-dots li.slick-active button{
+	background-color:#F2536D;
+}
+#promotions .subscribe-form .btn{
+	background-color: #F2536D;
+}
+#promotions .clients-main .slick-arrow {
+	background-color: #F2536D;
+}
+#footer-top .single-form .btn{
+	background-color: #F2536D;
+}

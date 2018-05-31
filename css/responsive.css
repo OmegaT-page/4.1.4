@@ -1,0 +1,608 @@
+/*
+----------------------------------------------------------------------------------------
+Author       : Kazi Irfan
+Template Name: Buddhi
+Version      : 1.0
+----------------------------------------------------------------------------------------
+*/
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+.benefits-main {
+	padding: 36px;
+}
+#benefits .left-benefits::before {
+	width: 70%;
+}
+#benefits .left-benefits::after {
+	right: 189px;
+}
+#benefits .single-benefits::before {
+	right: 171px;
+}
+#benefits .single-benefits.top {
+	margin-bottom: 5px;
+}
+.single-benefits.bottom::after {
+	width: 420px;
+}
+#benefits .single-benefits.bottom::before {
+	left: -193px;
+}
+#portfolio .single-portfolio {
+	width: 48%;
+}
+#tables .pricing-table-top {
+	width: 280px;
+	margin-right: 18px;
+}
+#tables .pricing-table {
+	width: 294px;
+	margin-right: 26px;
+
+}
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+#header .nav {
+	margin-top: 5px;
+	padding: 10px;
+}
+#header .nav li {
+	margin-bottom: 10px;
+}
+#header .nav li a {
+	font-size: 13px;
+	padding: 10px 12px;
+}
+#header .heading h2 {
+	font-size: 28px;
+}
+#header .slider {
+	padding: 150px 0 0;
+}
+#header .single-content {
+	padding: 0 90px;
+}
+.section-title {
+	margin-bottom: 30px;
+}
+.section-title h2 {
+	margin-bottom: 30px;
+	font-size:30px;
+}
+.section-title p {
+	font-size:16px;
+}
+.section-padding {
+	padding: 70px 0;
+}	
+#service .section-title h2 {
+	margin-bottom: 30px;
+}
+#service .section-title p {
+	font-size: 16px;
+}
+
+#service .single-service {
+	margin-top: 25px;
+}
+
+#features.section-padding {
+	padding: 50px 0 50px 0;
+}
+.col-md-6.img {
+	position: relative;
+	padding: 0;
+	text-align: center;
+}
+.col-md-6.img img {
+	width: 80%;
+	max-width: 80%;
+	border-radius: 16px;
+}
+.features-left {
+	float: left;
+	width: 100%;
+	padding: 0 50px;
+	margin-bottom: 25px;
+}
+.features-right {
+	float: none;
+	width: 100%;
+	text-align: center;
+	margin-top:20px;
+}
+
+#features .features-right img {
+	border-radius: 15px;
+	width:80%;
+}
+
+#features .features-content {
+	margin: 0 ;
+}
+
+#features .features-signle {
+	text-align: center;
+}
+
+#benefits{
+	display:none;
+}
+
+#portfolio .single-portfolio {
+	width: 48%;
+}
+#tables .section-title {
+	margin-bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+#tables .pricing-main {
+	float:none;
+}
+#tables .pricing-table-top {
+	float:none;
+	height:auto;
+	width: 330px;
+	margin: auto;
+}
+#tables .pricing-table {
+	width:100%;
+	position: relative;
+	margin-bottom:35px;
+	margin-right: 26px;
+	margin: 0 auto 30px auto;
+}
+#tables .p-head h4 {
+	margin-bottom: 15px;
+}
+
+.col-md-6.img {
+	position: relative;
+}
+#features .features-right img {
+	border-radius: 12px;
+}
+#features .features-signle i {
+	float: none;
+}
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.section-padding {
+	padding: 60px 0;
+}		
+#header .navbar-collapse {
+	padding: 0px;
+	border: none;
+	box-shadow: none;
+}
+#header .nav{
+	float: right;
+	margin-right: 10px;
+	background: #fff;
+	width: 230px;
+	margin-top: 5px;
+	padding: 10px;
+}	
+#header .nav li {
+	margin-bottom: 10px;
+}
+#header .nav li{
+	float: none;
+}	
+#header .nav li a{
+	color:#999
+}
+#header .nav li:hover a{
+	color:#fff
+}
+#header .nav li.current a{
+	color:#fff
+
+}	
+#sticky-wrapper.sticky .nav{
+	float: right;
+	margin-right: 10px;
+	background: #fff;
+	width: 230px;
+}	
+#sticky-wrapper.sticky .nav li{
+	float: none;
+}	
+#header .heading h2 {
+	font-size: 22px;
+	line-height: 28px;
+}
+#header .single-content {
+	text-align: center;
+	padding: 0 20px;
+}
+#header .slider {
+	padding: 150px 0 0;
+}
+.section-title {
+	margin-bottom: 25px;
+	width:100%;
+	text-align:center;
+}
+.section-title h2 {
+	margin-bottom: 25px;
+	font-size:25px;
+}
+.section-title p {
+	font-size:14px;
+}
+#service .section-title h2 {
+	margin-bottom: 25px;
+}
+#service .section-title p {
+	font-size: 14px;
+}
+
+#service .single-service {
+	margin-top: 25px;
+}
+
+.benefits-main{
+background:none;	
+}
+
+#features.section-padding {
+	padding: 50px 0 50px 0;
+}
+.features-left {
+	float: left;
+	width: 100%;
+	padding: 0 15px;
+	margin-bottom:25px;
+}
+.features-right {
+	float: none;
+	width: 100%;
+	text-align: center;
+	margin-top:20px;
+}
+
+.col-md-6.img {
+	position: relative;
+	padding: 0;
+	text-align: center;
+}
+.col-md-6.img img {
+	width: 80%;
+	max-width: 80%;
+	border-radius: 16px;
+}
+#features .features-content {
+	margin: 0 ;
+}
+
+#features .features-signle {
+	text-align: center;
+}
+#features .features-signle i {
+	float: none;
+}
+
+#tables .section-title {
+	margin-bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+#tables .pricing-main {
+	float:none;
+}
+#tables .pricing-table-top {
+	float: none;
+	height: auto;
+	width: 100%;
+}
+#tables .pricing-table {
+	width:100%;
+	position: relative;
+	margin-bottom:35px;
+
+}
+#tables .p-head h4 {
+	margin-bottom: 15px;
+}
+#portfolio .single-portfolio {
+	width: 100%;
+
+}
+#benefits{
+	display:none;
+}
+
+
+#tables .pricing-main {
+	float:none;
+}
+#tables .pricing-table-top {
+	float:none;
+	height:auto;
+	width:100%;
+}
+#tables .pricing-table {
+	width:100%;
+	position: relative;
+
+}
+#benefits .left-benefits {
+	float: center;
+	position: relative;
+	width: 100%;
+}
+#promotions .subscribe-form input {
+	width: 55%;
+
+}
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+.section-padding {
+	padding: 50px 0;
+}			
+
+#header .navbar-collapse {
+	padding: 0px;
+	border: none;
+	box-shadow: none;
+}
+.navbar-toggle {
+	padding: 10px 10px;
+	margin-top: 6px;
+	margin-right: -1px;
+
+}
+#header .slider {
+	padding: 150px 0 0;
+}
+#header .single-content {
+	text-align: center;
+	padding: 0;
+}
+#header .nav{
+	float: right;
+	margin-right: 10px;
+	background: #fff;
+	width: 230px;
+	margin-top: 5px;
+	padding: 10px;
+}	
+#header .nav li {
+	margin-bottom: 10px;
+	float:none;
+}
+#header .nav li a{
+	color:#999
+}
+#header .nav li:hover a{
+	color:#fff
+
+}
+#header .nav li.current a{
+	color:#fff
+
+}	
+#header .heading h2 {
+	line-height: 29px;
+	font-size: 20px;
+}
+
+
+.section-title {
+	margin-bottom: 10px;
+	width:100%;
+	text-align:center;
+	padding:5px;
+}
+.section-title h2 {
+	margin-bottom: 25px;
+	font-size:25px;
+}
+.section-title p {
+	font-size:14px;
+}
+#service .section-title {
+	padding: 0 10px;
+}
+#service .section-title h2 {
+	margin-bottom: 25px;
+}
+#service .section-title p {
+	font-size: 14px;
+}
+
+#service .single-service {
+	margin-top: 25px;
+}
+.col-md-6.img {
+	position: relative;
+	padding: 0;
+	text-align: center;
+}
+.col-md-6.img img {
+	width: 80%;
+	max-width: 80%;
+	border-radius: 15px;
+}
+
+#features .features-content {
+	margin: 20px 0;
+	text-align:center;
+}
+
+#features.section-padding {
+	padding: 50px 0 50px 0;
+}
+.features-left {
+	float: left;
+	width: 100%;
+	padding: 0 15px;
+	margin-bottom:25px;
+}
+.features-right {
+	float: none;
+	width: 100%;
+	text-align: center;
+	margin-top:20px;
+}
+#benefits{
+	display:none;
+}
+
+#features .features-content {
+	margin: 0 ;
+}
+#features .features-signle {
+	text-align: center;
+}
+#features .features-signle i {
+	float: none;
+}
+#tables .section-title {
+	margin-bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+#tables .pricing-main {
+	float:none;
+}
+#tables .pricing-table-top {
+	float: none;
+	height: auto;
+	width: 110%;
+	margin-left: -15px;
+}
+#tables .pricing-table {
+	width:100%;
+	position: relative;
+	margin-bottom:35px;
+
+}
+#tables .p-head h4 {
+	margin-bottom: 15px;
+}
+#tables .p-body {
+	padding: 29px 20px 10px;
+
+}
+#tables .p-body li{
+	font-size: 13px;
+
+}
+#portfolio .single-portfolio {
+
+	width: 100%;
+	margin-left: 0px;
+
+}
+#tables .button {
+	padding: 0 15px 30px;
+}
+#tables .button .btn {
+	padding:15px 14px;
+	font-size: 13px;
+
+}
+#testimonials .testimonial-content {
+	padding: 10px;
+
+	margin-bottom: 30px;
+}
+.benefits-main {
+	padding: 60px 0;
+	background:none;
+}
+.single-benefits.bottom::after {
+	display:none;
+}
+#benefits .left-benefits::before,#benefits .left-benefits::after {
+
+	display: none;
+}
+#benefits .left-benefits {
+	float: center;
+	width: 100%;
+}
+#benefits .single-benefits {
+	margin-bottom: 25px;
+}
+#benefits .single-benefits::before {
+
+	display: none;
+}
+#benefits .right-benefits::before {
+
+	display: none;
+}
+#benefits .right-benefits::after {
+
+	display: none;
+}
+#benefits .single-benefits h4 {
+
+	margin-bottom: 12px;
+}
+#benefits .single-benefits {
+	text-align: center;
+}
+#benefits .left-benefits .single-benefits p {
+	width: 100%;
+	text-align: center;
+}
+#benefits .single-benefits.top {
+	margin-bottom: 10px;
+	text-align: center;
+	float: none;
+}
+#benefits .right-benefits {
+	float: none;
+	width: 100%;
+	position: relative;
+}
+#benefits .right-benefits .single-benefits p {
+	text-align: center;
+	width: 100%;
+}
+#benefits .right-benefits .single-benefits {
+	float: none;
+	text-align: center;
+}
+#testimonials .testimonial-content::after {
+	display: none;
+}
+#promotions .subscribe-form input {
+	width: 170px;
+
+}
+#promotions .single-subscribe h2 {
+	margin: 34px 0;
+	font-size: 25px;
+}
+#promotions .subscribe-form p {
+	margin-top: 12px;
+
+
+}
+#promotions .clients h2 {
+margin: 34px 0;
+	font-size: 25px;
+}	
+
+}
+
+
+
+
+

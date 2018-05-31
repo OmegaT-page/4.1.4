@@ -1,0 +1,111 @@
+/* Primary Color */
+#header {
+	background-color:#AC940C;	
+}
+#header .nav-main {
+	border-bottom: 1px solid #AC940C;
+
+}
+#service .single-service i{
+	border-color:#AC940C;
+	color: #AC940C;
+}
+#benefits .left-benefits::before{
+	background: #AC940C;
+}
+#benefits .left-benefits::after{
+	background: #AC940C;
+
+}
+#benefits .single-benefits::before{
+	background: #AC940C;
+	box-shadow: 0px 0px 0px 5px RGBA(172, 148, 12, 0.25);
+}
+}
+#benefits .right-benefits::after{
+	background: #AC940C;
+
+}
+.single-benefits.bottom::after{
+	background: #AC940C;
+
+}
+#benefits .right-benefits::before {
+	background: #AC940C;
+}
+#benefits .right-benefits::after {
+	background: #AC940C;
+}
+#tables .pricing-table.active .btn{
+	background-color:#AC940C;
+}
+#testimonials .slick-current .testimonial-content{
+	background-color: #AC940C;
+}
+#testimonials .slick-current .testimonial-content:before {
+	border-top: 22px solid #AC940C;
+}
+
+.scrollup .fa{
+	background-color: #AC940C;
+}
+#tables .pricing-table.active .p-head h4{
+	color:#AC940C;
+}
+#tables .p-body li i{
+	color:#AC940C;
+
+}
+#tables .pricing-table{
+	border-bottom: 5px solid #AC940C;
+
+}
+#footer .copyright-text a{
+color:#AC940C;	
+}
+
+
+/* Secendory Color */
+.button .btn{
+	background-color: #524d21;
+}
+#header .nav li.current a{
+	background-color:#524d21;
+}
+#header .nav li:hover a {
+	background-color:#524d21;
+
+}
+#service .single-service:hover i{
+	background-color:#524d21;
+	box-shadow: 0px 0px 0px 5px rgba(82, 77, 33, 0.34);
+}
+#features .features-signle i {
+	color: #524d21;
+}
+#tables .p-head h4 {
+	color: #fff;
+}
+#tables .button .btn{
+	background-color:#524d21;	
+}
+#tables .pricing-table.active{
+	 border-bottom-color:#524d21;
+}
+
+
+#tables .pricing-table.active .p-body li i{
+	color:#524d21;
+}
+#testimonials .slick-dots li.slick-active button{
+	background-color:#524d21;
+}
+#promotions .subscribe-form .btn{
+	background-color: #524d21;
+}
+#promotions .clients-main .slick-arrow {
+	background-color: #524d21;
+}
+#footer-top .single-form .btn{
+	background-color: #524d21;
+}
